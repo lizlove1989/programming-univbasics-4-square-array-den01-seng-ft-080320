@@ -4,4 +4,5 @@ def square_array(numbers)
       numbers[counter] *
       counter += 1
     end
+    numbers
 end
